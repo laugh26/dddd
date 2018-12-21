@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.idea
+.DS_Store
+node_modules
+public
+themes/nav-community-v2/static/css/nav.css

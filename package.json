@@ -1,0 +1,24 @@
+{
+  "name": "cadex.xyz",
+  "version": "1.0.0",
+  "description": "Maintained by the global NAV community",
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "hugo server",
+    "sass": "gulp sass:watch"
+  },
+  "keywords": [
+    "NAV",
+    "Cadex",
+    "Cryptocurrency"
+  ],
+  "author": "NAV Community",
+  "license": "MIT"
+}
